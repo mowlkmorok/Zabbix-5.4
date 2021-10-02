@@ -3,7 +3,7 @@ Look
 <div>
     <div>
 		    <h3> How to install:</h3>
-        <p>-1   Change your localhost or remotehost.</p>
+        <p>-1   Change your localhost or remotehost of manifest.json file.</p>
         <p>-2   Install extension.</p>
         <p>-3   <b>Pay Attention!</b> you can't hide the 'filter' <img src="https://raw.githubusercontent.com/mowlkmorok/Zabbix-5.4/master/Graph-Reload-Solving/Reload%20-Graph-1.0/img/xw.png">.  Because the extension will need of the class name 'selected' to run.</p>
     </div>
