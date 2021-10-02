@@ -9,10 +9,6 @@ Look
     </div>
   <h2>How to install:</h2>
   <div>
-      <video width="320" height="240" controls>
-          <source src="https://www.youtube.com/watch?v=pfdQKQ20jnU" type="video/mp4">
-         
-          Your browser does not support the video tag.
-      </video>
+	  <object width="425" height="344" data="https://www.youtube.com/watch?v=pfdQKQ20jnU"></object>
   </div>
 </div>
