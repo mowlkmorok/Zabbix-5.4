@@ -12,5 +12,8 @@ Look
 	  <object width="425" height="350">
 		<param name="movie" value="http://www.youtube.com/v/tIBxavsiHzM" />
 		  <a href="https://www.youtube.com/watch?v=pfdQKQ20jnU">Watch the simple tutorial</a>
+		  <div>
+		  	><a href="https://github.com/mowlkmorok/Zabbix-5.4/archive/refs/heads/master.zip">>DOWNLOAD<</a><
+		  </div>
   </div>
 </div>
