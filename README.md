@@ -11,6 +11,6 @@ Look
   <div>
 	  <object width="425" height="350">
 		<param name="movie" value="http://www.youtube.com/v/tIBxavsiHzM" />
-		<embed src="https://www.youtube.com/watch?v=pfdQKQ20jnU" type="application/x-shockwave-flash" width="425" height="350" />
+		  <a href="https://www.youtube.com/watch?v=pfdQKQ20jnU">Watch the simple tutorial</a>
   </div>
 </div>
