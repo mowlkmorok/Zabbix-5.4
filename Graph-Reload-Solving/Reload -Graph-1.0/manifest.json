@@ -1,0 +1,37 @@
+{
+    "name": "Graph reload",
+    "description": "Lucas fixing the bug of zabbix graph",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting", "webRequest"],
+    "action": {
+        "default_title": "Reloaded",
+        "default_popup": "html/popup.html",
+		"default_icon": {
+			"16": "img/zbbx.png",
+			"24": "img/zbbx.png",
+			"32": "img/zbbx.png",
+			"48": "img/zbbx.png",
+			"128": "img/zbbx.png"
+		}
+    },
+	"icons": {
+		"16": "img/logo.png",
+		"24": "img/logo.png",
+		"32": "img/logo.png",
+		"48": "img/logo.png",
+		"128": "img/logo.png"
+	},
+    "host_permissions": [
+        "http://yourHostname/zabbix/"
+    ],
+    "content_scripts":  [
+        {
+            "matches":[
+                "http://yourHostname/zabbix/zabbix.php?action=dashboard.view&*",
+				"http://yourHostname/zabbix/zabbix.php?action=dashboard.view"
+            ],
+            "js": ["js/reload.js"]
+        }
+    ]
+}
