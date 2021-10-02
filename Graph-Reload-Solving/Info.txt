@@ -1,0 +1,5 @@
+Hey there!...
+
+Here I typed a simple code to chrome extension to resolve graph don't reload in dashboard on zabbix-5.4.
+
+READ INFO IN HTML of the extension before! 
