@@ -9,6 +9,8 @@ Look
     </div>
   <h2>How to install:</h2>
   <div>
-	  <object width="425" height="344" data="https://www.youtube.com/watch?v=pfdQKQ20jnU"></object>
+	  <object width="425" height="350">
+		<param name="movie" value="http://www.youtube.com/v/tIBxavsiHzM" />
+		<embed src="https://www.youtube.com/watch?v=pfdQKQ20jnU" type="application/x-shockwave-flash" width="425" height="350" />
   </div>
 </div>
