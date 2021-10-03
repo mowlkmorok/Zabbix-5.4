@@ -11,7 +11,7 @@ if(document.readyState=="complete") document.addEventListener('DOMContentLoaded'
 else reload1();
 
 function select1(){
-    document.getElementsByClassName('selected')[1].click();
+    document.getElementsByClassName('selected')[1].click() == undefined;
     reload1();
 }
 
